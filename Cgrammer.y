@@ -378,8 +378,8 @@ expression_statement
 
 selection_statement
 	: IF '(' expression ')' statement
-//	| IF '(' expression ')' statement ELSE statement
-//	| SWITCH '(' expression ')' statement
+	| IF '(' expression ')' statement ELSE statement
+	| SWITCH '(' expression ')' statement
 	;
 
 iteration_statement
