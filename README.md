@@ -1,17 +1,6 @@
 # SimpleYaccLexExample
 A simple example of lexical  analysis and parsing of C language using Yacc and lex
 
-# the ANSI C grammar in yacc & lex was written by Jeff Lee
-here is the Original source:
-http://www.lysator.liu.se/c/
-
-
-http://www.lysator.liu.se/c/ANSI-C-grammar-y.html
-
-
-http://www.lysator.liu.se/c/ANSI-C-grammar-l.html
-
-
 
 ### Usage
 1.Compile lexical file
